@@ -10,7 +10,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
 Estudiante de tecnicatura en programación. En tercer año.
-* **Dedicada y especializada en el Front End, web, movile también diseño de interfaces con figma**
+* **Dedicada y especializada en el Front End, web, mobile, también diseño de interfaces con figma**
 - 🌱 Tegnologías que uso
   - Javascript / Typescript
   - React, React Native, Expo, Three.js
